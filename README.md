@@ -1,6 +1,6 @@
 <div align="center">
 
-# 大艳.skill
+# 大雁.skill
 
 > *「知识100%改变了我的命运。」*
 
